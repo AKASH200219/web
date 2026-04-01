@@ -1,0 +1,66 @@
+.bgg1{
+    background-color: rgba(7, 15, 41, 0.87);
+    color: white;
+     padding: 20px 0;
+}
+.bb{
+    width: 0px;
+    height: 0px;
+}
+
+.bgg1 .pp{
+    color: #106fbd;
+}
+
+
+.bgg1 .card {
+  background-color: rgba(7, 15, 41, 0.87);
+  border: none;
+  border-radius: 15px;
+  padding: 20px;
+  transition: 0.3s;
+}
+
+/* HOVER EFFECT */
+/* .bgg .card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 10px 25px rgba(255, 255, 255, 0.1);
+} */
+
+
+.bgg1 p {
+  color: #ccc;
+  font-size: 14px;
+  line-height: 1.6;
+}
+.author {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.author img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+
+.author span {
+  font-weight: 600;
+  font-size: 14px;
+  color: #fff;
+}
+
+
+.bgg1 h5 {
+  color: #544cbe;
+}
+
+.bgg1 h2 {
+  font-weight: bold;
+}
+
+.bgg1 h6 {
+  color: #aaa;
+}

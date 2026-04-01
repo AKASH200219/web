@@ -1,0 +1,26 @@
+.categorieSe{
+  width: 100%;
+  background-color: #f3f4f6; /* light gray */
+  padding: 40px 20px;
+}
+
+.categorieCo{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+
+
+
+.categorieT {
+  font-size: 32px;
+  font-weight: bold;
+  color: #111827;
+  margin-bottom: 8px;
+}
+
+
+.categorieS {
+  font-size: 16px;
+  color: #4b5563;
+}

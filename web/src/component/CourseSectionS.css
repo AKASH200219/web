@@ -1,0 +1,44 @@
+.sidebar {
+  padding: 10px;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 12px;
+  margin-bottom: 6px;
+  border-radius: 8px;
+  cursor: pointer;
+  color: #555;
+  transition: 0.3s;
+}
+
+.item:hover {
+  background: #f3f4ff;
+}
+
+
+.item.active {
+  background: #e9eaff;
+  color: #4f46e5;
+  font-weight: 600;
+}
+
+.item .count {
+  font-size: 14px;
+  color: #999;
+}
+
+
+.course-scroll {
+  height: 100vh;
+  overflow-y: auto;
+  padding-bottom: 120px; /* extra safe space */
+}
+
+
+/* Hide scrollbar - Chrome, Edge, Safari */
+.course-scroll::-webkit-scrollbar {
+  display: none;
+}

@@ -1,0 +1,32 @@
+.instructorSe{
+  width: 100%;
+  background-color: #f3f4f6; /* light gray */
+  padding: 40px 20px;
+}
+
+.instructorCo{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+
+
+/* .breadcrumb-link {
+  cursor: pointer;
+  transition: color 0.2s;
+}
+ */
+
+
+.instructorT {
+  font-size: 32px;
+  font-weight: bold;
+  color: #111827;
+  margin-bottom: 8px;
+}
+
+
+.instructorS {
+  font-size: 16px;
+  color: #4b5563;
+}

@@ -1,0 +1,21 @@
+.navbar {
+  position: sticky !important;
+  top: 0;
+  background-color: #ffffff;
+  color: white;
+  padding: 15px;
+  z-index: 1000;
+}
+.nav-link:hover {
+  /* background-color: #007bff; */
+  color: rgb(150, 24, 24) !important;
+}
+.icon{
+  color: white;
+  background-color: blue;
+  border-radius: 1px solid white;
+  padding: 10px;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+}

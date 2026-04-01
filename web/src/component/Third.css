@@ -1,0 +1,73 @@
+.CdTag{
+    color: rgb(65, 29, 226);
+    border: 1px solid white;
+    background-color: rgba(70, 70, 201, 0.322);
+    padding: 10px;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+}
+.Chart{
+      color: rgb(71, 13, 54);
+    border: 1px solid white;
+    background-color: rgba(104, 104, 133, 0.322);
+    padding: 10px;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+}
+.Swatch{
+      color: rgb(190, 43, 117);
+    border: 1px solid white;
+    background-color: rgba(70, 70, 201, 0.281);
+    padding: 10px;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+}
+.Briefcase{
+   color: rgb(211, 182, 21);
+    border: 1px solid white;
+    background-color: rgba(194, 145, 53, 0.281);
+    padding: 10px;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+}
+.Mega{
+    color: rgb(55, 179, 71);
+    border: 1px solid white;
+    background-color: rgba(52, 121, 83, 0.281);
+    padding: 10px;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+}
+.Phone{
+    color: rgb(39, 112, 160);
+    border: 1px solid white;
+    background-color: rgba(41, 152, 180, 0.281);
+    padding: 10px;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+}
+.Cloud{
+    color: rgb(72, 29, 189);
+    border: 1px solid white;
+    background-color: rgba(70, 70, 201, 0.281);
+    padding: 10px;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+.Camera{
+    color: rgb(202, 25, 12);
+    border: 1px solid white;
+    background-color: rgba(194, 67, 50, 0.281);
+    padding: 10px;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+}
